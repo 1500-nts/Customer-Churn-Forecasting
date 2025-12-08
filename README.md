@@ -152,16 +152,3 @@ Insights from EDA and model results can help telecom companies:
 * Reduce financial losses due to churn
 
 ---
-
-## Future Enhancements
-
-Potential improvements:
-
-* Hyperparameter tuning using GridSearch or RandomizedSearch
-* Use of deep learning models
-* Deployment of the final model using Flask/FastAPI
-* Real-time churn prediction dashboard
-
----
-
-Just tell me what you prefer.
